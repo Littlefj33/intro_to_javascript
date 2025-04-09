@@ -49,7 +49,7 @@ for (let i = 0; i <= 5; i++) {
 
 // 2. While Loop
 let count = 0;
-while (count < 0) {
+while (count < 10) {
 	console.log(`While Loop: ${count}`);
 	count++;
 }
